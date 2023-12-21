@@ -6,4 +6,6 @@ export const Geoptions = {
 		'X-RapidAPI-Host': 'wft-geo-db.p.rapidapi.com'
 	}
 };
+export const WEATHER_API = `https://api.openweathermap.org/data/2.5`
 
+export const WEATHER_API_KEY = "9ac562efe6e240fc3014251bdcb180d7"
